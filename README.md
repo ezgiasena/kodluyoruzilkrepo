@@ -25,4 +25,4 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 [MIT](https://www.google.com)
 
 
-![ppg](/kodluyoruzilkrepo/img/powerpuff.jpg)
+![ppg](/img/powerpuff.jpg)
